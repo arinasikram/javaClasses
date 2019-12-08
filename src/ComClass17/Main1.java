@@ -3,6 +3,7 @@ package ComClass17;
 public class Main1 {
 	 String name;
 	    int roll_no;
+		public char[] finalVariable;
 	  public static void main(String[] args) {
 	    Main s = new Main();
 	    s.name = "John";
